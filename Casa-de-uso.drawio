@@ -68,13 +68,13 @@
           <mxGeometry x="220" y="280" width="360" height="490" as="geometry" />
         </mxCell>
         <mxCell id="5GAmD2_G5ovodKzPIwnK-50" value="CLIENTE" style="html=1;whiteSpace=wrap;" vertex="1" parent="5GAmD2_G5ovodKzPIwnK-48">
-          <mxGeometry y="30" width="110" height="50" as="geometry" />
+          <mxGeometry y="80" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5GAmD2_G5ovodKzPIwnK-51" value="CAIXA" style="html=1;whiteSpace=wrap;" vertex="1" parent="5GAmD2_G5ovodKzPIwnK-48">
-          <mxGeometry y="226" width="110" height="50" as="geometry" />
+          <mxGeometry y="276" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5GAmD2_G5ovodKzPIwnK-52" value="" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="5GAmD2_G5ovodKzPIwnK-48">
-          <mxGeometry x="100" y="80" width="140" height="126" as="geometry" />
+          <mxGeometry x="160" y="80" width="140" height="126" as="geometry" />
         </mxCell>
         <mxCell id="5GAmD2_G5ovodKzPIwnK-53" value="Navegar Produtos" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="5GAmD2_G5ovodKzPIwnK-52">
           <mxGeometry y="26" width="140" height="22" as="geometry" />
@@ -86,7 +86,7 @@
           <mxGeometry y="74" width="140" height="52" as="geometry" />
         </mxCell>
         <mxCell id="5GAmD2_G5ovodKzPIwnK-56" value="" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="5GAmD2_G5ovodKzPIwnK-48">
-          <mxGeometry x="100" y="276" width="140" height="104" as="geometry" />
+          <mxGeometry x="160" y="270" width="140" height="104" as="geometry" />
         </mxCell>
         <mxCell id="5GAmD2_G5ovodKzPIwnK-57" value="Registrar Produto" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="5GAmD2_G5ovodKzPIwnK-56">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
@@ -112,7 +112,19 @@
             <mxPoint x="160" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5GAmD2_G5ovodKzPIwnK-67" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="5GAmD2_G5ovodKzPIwnK-50">
+        <mxCell id="5GAmD2_G5ovodKzPIwnK-69" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="5GAmD2_G5ovodKzPIwnK-48" source="5GAmD2_G5ovodKzPIwnK-50" target="5GAmD2_G5ovodKzPIwnK-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="150" as="sourcePoint" />
+            <mxPoint x="160" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5GAmD2_G5ovodKzPIwnK-70" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="5GAmD2_G5ovodKzPIwnK-48" source="5GAmD2_G5ovodKzPIwnK-51" target="5GAmD2_G5ovodKzPIwnK-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="360" as="sourcePoint" />
+            <mxPoint x="150" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5GAmD2_G5ovodKzPIwnK-67" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="5GAmD2_G5ovodKzPIwnK-49">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="130" y="370" as="sourcePoint" />
             <mxPoint x="180" y="320" as="targetPoint" />
