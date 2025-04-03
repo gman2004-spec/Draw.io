@@ -76,6 +76,12 @@
             <mxPoint x="130" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="uu7HnePWF9vuSrCE-IKj-31" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="230" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="uu7HnePWF9vuSrCE-IKj-32" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="230" width="10" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
