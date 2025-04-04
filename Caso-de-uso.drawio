@@ -34,7 +34,7 @@
         <mxCell id="YANR_p6s829X-X6N85jq-70" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="YANR_p6s829X-X6N85jq-51">
           <mxGeometry x="300" y="680" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="YANR_p6s829X-X6N85jq-71" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="YANR_p6s829X-X6N85jq-51">
+        <mxCell id="YANR_p6s829X-X6N85jq-71" value="3. Inventário&lt;div&gt;{Invent.Rotativo}&lt;/div&gt;&lt;div&gt;{Recontagem}&lt;/div&gt;&lt;div&gt;{Comparação}&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="YANR_p6s829X-X6N85jq-51">
           <mxGeometry x="520" y="260" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="YANR_p6s829X-X6N85jq-72" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="YANR_p6s829X-X6N85jq-51">
