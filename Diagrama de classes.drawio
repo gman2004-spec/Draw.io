@@ -115,6 +115,15 @@
             <mxPoint x="60" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="zFMTN2dHoOJJNg2jdgR_-11" value="Sistemas de processo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="255" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zFMTN2dHoOJJNg2jdgR_-12" value="Alertas do documento" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="285" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zFMTN2dHoOJJNg2jdgR_-13" value="Prazo de Validade" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="315" width="140" height="25" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
